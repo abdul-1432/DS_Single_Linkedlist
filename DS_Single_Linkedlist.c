@@ -1,4 +1,4 @@
-// program for implementation of single linked list and operations on it
+// program for implementation of a single linked list and operations on it
 
 #include <stdio.h>
 #include <stdlib.h>
